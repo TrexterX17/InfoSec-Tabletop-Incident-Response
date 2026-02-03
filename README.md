@@ -1,8 +1,5 @@
 # 🛡️ Incident Response Tabletop Exercise – Tim-Force
 
-[![University at Buffalo](https://img.shields.io/badge/University%20at%20Buffalo-005BBB?style=flat&logo=university&logoColor=white)](https://www.buffalo.edu/)
-[![Course](https://img.shields.io/badge/Course-Information%20Security%20%26%20Assurance-green)](/)
-[![Date](https://img.shields.io/badge/Date-Mar%202025--May%202025-blue)](/)
 
 A comprehensive group-based **Incident Response Tabletop Exercise** simulating a real-world cybersecurity incident at **Tim-Force**, a mid-sized online automotive marketplace.
 
