@@ -201,12 +201,3 @@ Delayed or disrupted title processing creates significant risks:
 
 ---
 
-## 📝 License
-
-This project was created for educational purposes as part of the Information Security and Assurance course at the University at Buffalo.
-
----
-
-<p align="center">
-  <i>Simulating real-world incidents to build better defenders.</i>
-</p>
